@@ -17,7 +17,7 @@ While specific projects are not listed in this README, you can explore the repos
 - Documentation or notes explaining the project's purpose, methodology, and conclusions.
 
 ## Contact and More
-For more about me, my work, or to get in touch visit [https://www.linkedin.com/in/brendan-burns-a7527223a/]
+For more about me, my work, or to get in touch visit https://www.linkedin.com/in/brendan-burns-a7527223a/
 
 ## Collaboration
 I am interested in collaborative opportunities in competitive data science, predictive analysis, and automation. If you are working on projects in these areas and looking for partners, feel free to reach out.
